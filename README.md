@@ -1,7 +1,17 @@
-# Contribution graph art
+# lakepainter 🎨
 
-This repository draws **Servus** on my GitHub [profile](https://github.com/issararab) contribution graph (last year (rolling) view).
+**This repo was just for fun :)** It's a weekend experiment in vibe coding: I played with
+an AI coding assistant to see if we could paint a message onto my GitHub contribution graph.
 
-It was generated with git-history-display. The commits contain no code: each one is an empty, back-dated commit whose only purpose is to shade one square of the graph.
+It says **Servus** 👋 on my [profile](https://github.com/issararab).
 
-`.git-history-display.json` records how it was made. Deleting this repository removes the drawing.
+## What's inside
+
+Nothing useful, on purpose. Every commit here is an empty, back-dated commit that shades one
+square of the contribution graph. There's no code to see, and the contribution count it adds
+isn't real work.
+
+The tool that generated it is
+[git-history-display-customization](https://github.com/issararab/git-history-display-customization)
+(built on [fake-git-history](https://github.com/Almas-Ali/fake-git-history)).
+`.git-history-display.json` records how the drawing was made.
