@@ -3,7 +3,7 @@
 **This repo was just for fun :)** It's a weekend experiment in vibe coding: I played with
 an AI coding assistant to see if we could paint a message onto my GitHub contribution graph.
 
-It says **Servus** 👋 on my [profile](https://github.com/issararab).
+It says **Servus** 👋 on my [profile](https://github.com/issararab). *Servus* is how people say hello in Bavaria, Germany.
 
 ## What's inside
 
